@@ -1,0 +1,58 @@
+.img{
+  height:50px;
+  width: 50px;
+  border-radius:25px;
+  object-fit: cover;
+  margin-left:7px;
+  margin-right:5px;
+  
+}
+.big-main{
+  width:500px;
+  font-family: Roboto,Arial;
+  display: flex;
+  flex-direction: column;
+  margin-top:10px;
+  
+  
+}
+.s-main{
+ display: flex;
+ flex-direction: row;
+}
+.main{
+  display: flex;
+  justify-content:space-between;
+  
+}
+.text{
+  display: flex;
+  flex-direction: column;
+}
+.first{
+  color: rgb(153, 153, 153);
+  display:block;
+  margin-bottom:10px;
+}
+.second{
+  font-weight: bold;
+  margin-top:5px;
+
+}
+.third{
+  font-weight: bold;
+  margin-top:5px;
+
+}
+.four{
+  color: rgb(153, 153, 153);
+  margin-top: 4px;
+}
+.time{
+  color: rgb(153, 153, 153);
+}
+.hloo{
+  display:flex;
+  flex-direction: column;
+  
+}

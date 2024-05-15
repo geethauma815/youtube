@@ -1,0 +1,23 @@
+.flexbox{
+display:flex;
+flex-direction: row;
+height:50px;
+}
+.column1{
+  background-color: lightpink;
+  width:100px;
+  display:flex;
+  align-items: center;
+}
+.column2{
+  background-color: lightblue;
+  width:200px;
+}
+.item-1{
+  background-color: black;
+  color:white;
+  padding-left:2px;
+  padding-right:2px;
+  width:50px;
+  margin-left:20px;
+}

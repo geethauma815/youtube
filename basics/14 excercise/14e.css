@@ -1,0 +1,54 @@
+.img{
+  width:40px;
+  height:40px;
+  border-radius: 20px;
+  object-fit: cover;
+  margin-left:60px;
+}
+.whole{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position:fixed;
+  background-color: white;
+  top:0;
+  left:0;
+  right:0;
+  height:55px;
+}
+.left{
+  padding-top: 5px;
+display: flex;
+  flex-direction: row;
+}
+.oliver{
+  margin-top:12px;
+  margin-left:5px;
+  font-weight: bold;
+}
+.blue{
+  background-color: rgb(111, 111, 243);
+  border-style:solid;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right:5px;
+  padding-right:5px;
+  color:white;
+  cursor:pointer;
+}
+.grey{
+  border-style:solid;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right:5px;
+  padding-right:5px;
+  color:black;
+  cursor:pointer;
+  background-color: rgb(206, 203, 203);
+}
+.right{
+  margin-right: 50px;
+  padding-top:5px;
+}

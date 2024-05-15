@@ -1,0 +1,26 @@
+.right{
+  position:fixed;
+  background-color: green;
+  color:white;
+  width:100px;
+  top:0;
+  bottom:0;
+  right:0;
+  font-size: 13px;
+}
+.fix{
+  top:0;
+  bottom:0;
+  right:0;
+  left:0; 
+  background-color: rgba(0,0,0,0.8);
+}
+.main{
+  position:fixed;
+  left:550px;
+  right:550px;
+  bottom:500px;
+  top:500px;
+  display:flexbox;
+  background-color:white;
+}
